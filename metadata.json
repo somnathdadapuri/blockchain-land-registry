@@ -1,0 +1,6 @@
+{
+  "name": "LandRegistry Web3 - Decentralized Property & Title Ownership System",
+  "description": "An industry-oriented decentralized land registry and property title management system powered by Solidity smart contracts, multi-party verification, IPFS document hashing, and simulated blockchain provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
